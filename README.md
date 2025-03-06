@@ -3,7 +3,7 @@
 
 This repository provides the implementation of the paper.  To cite:
 
-X. Huan, H. Zhou, B. Jung and L. Ma, "Enhancing Gait Analysis for Parkinson’s Disease Detection and Severity Staging With a Parallel Conv1D-Efficient Transformer and Bidirectional GRU Hybrid Architecture," in IEEE Access, vol. 13, pp. 33351-33360, 2025, doi: 10.1109/ACCESS.2025.3543749. 
+X. Huan, H. Zhou, B. Jung and L. Ma, "Enhancing Gait Analysis for Parkinson’s Disease Detection and Severity Staging With a Parallel Conv1D-Efficient Transformer and Bidirectional GRU Hybrid Architecture," in IEEE Access, vol. 13, pp. 33351-33360, 2025, doi:[10.1109/ACCESS.2025.3543749](https://doi.org/10.1109/ACCESS.2025.3543749). 
 
 ---
 
